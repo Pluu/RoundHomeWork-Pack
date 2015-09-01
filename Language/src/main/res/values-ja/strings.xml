@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">こんにちは</string>
+    <string name="text">にほんご [日本語] </string>
+    <string name="btn_ko">かんこくご [韓国語]</string>
+    <string name="btn_en">えいご [英語]</string>
+    <string name="btn_ja">にほんご [日本語]</string>
+    <string name="btn_zh">ちゅうごくご [中国語]</string>
+
+</resources>

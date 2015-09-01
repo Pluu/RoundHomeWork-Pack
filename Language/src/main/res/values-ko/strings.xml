@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">안녕하세요!</string>
+    <string name="text">한국어로~ </string>
+    <string name="btn_ko">한국어</string>
+    <string name="btn_en">영어</string>
+    <string name="btn_ja">일본어</string>
+    <string name="btn_zh">중국어</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">你好 [nǐhǎo]</string>
+    <string name="text">汉语 [Hànyǔ]</string>
+    <string name="btn_ko">韩文 [hánwén] </string>
+    <string name="btn_en">囹圄 [língyǔ]</string>
+    <string name="btn_ja">日文 [Rìwén]</string>
+    <string name="btn_zh">汉语 [Hànyǔ]</string>
+
+
+</resources>

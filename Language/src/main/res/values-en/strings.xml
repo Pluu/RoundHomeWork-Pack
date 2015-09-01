@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello!</string>
+    <string name="text">in english~</string>
+    <string name="btn_ko">korea</string>
+    <string name="btn_en">english</string>
+    <string name="btn_ja">japan</string>
+    <string name="btn_zh">china</string>
+
+</resources>
